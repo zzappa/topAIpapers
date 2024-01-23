@@ -1,6 +1,6 @@
 This is a list of top AI/ML/DL papers for the past ~90 years (1935-2023) sorted by number of citations. I got the idea from Chris Albon, and though I though he's right and there would be just a thousand or so papers, turned out it's almost 5000 of them. The list is incomplete and have many papers that are not directly AI/ML/DL, though I tried to clean the list a bit.
 
-Anyway, here's top papers with more than 30k citations:
+Anyway, here are the top papers with more than 30k citations:
 
 | Year | Author | Title | Citations |
 |------|--------|-------|-----------|
@@ -28,6 +28,6 @@ Anyway, here's top papers with more than 30k citations:
 | 2014 | Evan Shelhamer | [Fully convolutional networks for semantic segmentation](https://www.semanticscholar.org/paper/6fc6803df5f9ae505cae5b2f178ade4062c768d0) | 32869 |
 | 2005 | Navneet Dalal | [Histograms of oriented gradients for human detection](https://www.semanticscholar.org/paper/e8b12467bdc20bde976750b8a28decdb33246d1d) | 32695 |
 
-For the whole list, see [papers.md].
+For the whole list, [see all papers](/papers.md).
 
-I got the list parsing SemanticScholar as they have the best API (Google Scholar should also be fine, but it's harder to parse.)
+I got the list parsing SemanticScholar as they have the best API (Google Scholar should also be fine, but it's harder to parse.) You can generate your own raw list via the [notebook](/top_papers.ipynb).
