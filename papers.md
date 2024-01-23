@@ -19,7 +19,6 @@
 | 2014 | I. Goodfellow | [Generative adversarial networks](https://www.semanticscholar.org/paper/13bc4e683075bdd6a3f0155241c276a772d4aa06) | 38922 |
 | 2015 | Sergey Ioffe | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://www.semanticscholar.org/paper/995c5f5e62614fcb4d2796ad2faab969da51713e) | 38526 |
 | 2003 | K. Burnham | [Model selection and multimodel inference : a practical information-theoretic approach](https://www.semanticscholar.org/paper/59bb17b27d7220e930ee6bebe1f94cf43ad42c2d) | 36126 |
-| 1959 | W. Feller | [An Introduction to Probability Theory and Its Applications](https://www.semanticscholar.org/paper/a6a449b72942b7a6ffd14bd75e92e6656e317736) | 36065 |
 | 2006 | Radford M. Neal | [Pattern Recognition and Machine Learning](https://www.semanticscholar.org/paper/668b1277fbece28c4841eeab1c97e4ebd0079700) | 34251 |
 | 2014 | Olga Russakovsky | [ImageNet Large Scale Visual Recognition Challenge](https://www.semanticscholar.org/paper/e74f9b7f8eec6ba4704c206b93bc8079af3da4bd) | 33827 |
 | 2014 | Evan Shelhamer | [Fully convolutional networks for semantic segmentation](https://www.semanticscholar.org/paper/6fc6803df5f9ae505cae5b2f178ade4062c768d0) | 32869 |
@@ -136,7 +135,6 @@
 | 1995 | Shirley Taylor | [Understanding Information Technology Usage: A Test of Competing Models](https://www.semanticscholar.org/paper/22c52372c50001f10423298e94ce60a937f61cee) | 8612 |
 | 1987 | R. Lippmann | [An introduction to computing with neural nets](https://www.semanticscholar.org/paper/0908d52124ec2a31bfe9d966d1374a80919155ad) | 8584 |
 | 2017 | G. Litjens | [A survey on deep learning in medical image analysis](https://www.semanticscholar.org/paper/6ff909c6fe089fc8ebfc64eca0f0c3cc34ba277f) | 8572 |
-| 1997 | T. Coelli | [An Introduction to Efficiency and Productivity Analysis](https://www.semanticscholar.org/paper/f959bc998e087b78a3fe9bf29f44c610bd0d0bfc) | 8447 |
 | 2000 | N. Cristianini | [An Introduction to Support Vector Machines and Other Kernel-based Learning Methods](https://www.semanticscholar.org/paper/6ec7c724aa1d906e9e9f81c58497adddb22175b8) | 8418 |
 | 1993 | C. Berrou | [Near Shannon limit error-correcting coding and decoding: Turbo-codes. 1](https://www.semanticscholar.org/paper/3ba9baa534a8ea39a31c69e72ada959aaa6a4dc1) | 8391 |
 | 1962 | M. Hu | [Visual pattern recognition by moment invariants](https://www.semanticscholar.org/paper/ce1e3528047cd01937f6a8aa760640f6b3c8d531) | 8347 |
@@ -328,7 +326,6 @@
 | 2012 | Razvan Pascanu | [On the difficulty of training recurrent neural networks](https://www.semanticscholar.org/paper/84069287da0a6b488b8c933f3cb5be759cb6237e) | 4764 |
 | 2013 | Jeff Donahue | [DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition](https://www.semanticscholar.org/paper/b8de958fead0d8a9619b55c7299df3257c624a96) | 4760 |
 | 2014 | A. Razavian | [CNN Features Off-the-Shelf: An Astounding Baseline for Recognition](https://www.semanticscholar.org/paper/6270baedeba28001cd1b563a199335720d6e0fe0) | 4756 |
-| 2007 | Thomas J. Cortina | [An introduction to computer science for non-majors using principles of computation](https://www.semanticscholar.org/paper/9679554de5f828ea4506fedb5921d67a16a8e618) | 4740 |
 | 2014 | Danilo Jimenez Rezende | [Stochastic Backpropagation and Approximate Inference in Deep Generative Models](https://www.semanticscholar.org/paper/484ad17c926292fbe0d5211540832a8c8a8e958b) | 4734 |
 | 1992 | L. Brown | [A survey of image registration techniques](https://www.semanticscholar.org/paper/a1068be6f66ae6a56b7dffbdfabc73b253de0ab3) | 4721 |
 | 1989 | M. Baran | [Network Reconfiguration in Distribution Systems for Loss Reduction and Load Balancing](https://www.semanticscholar.org/paper/cd46bc3a9dff246317b95f4121248e265a219579) | 4713 |
@@ -349,9 +346,7 @@
 | 2007 | S. Kotsiantis | [Supervised Machine Learning: A Review of Classification Techniques](https://www.semanticscholar.org/paper/f1b962fb4070fedd46758e334db3ba4f00ddc3ec) | 4527 |
 | 2006 | E. Rosten | [Machine Learning for High-Speed Corner Detection](https://www.semanticscholar.org/paper/e0408181bccb7e3754dd5e6785ec47d8beb8b6bd) | 4522 |
 | 1997 | D. Gusfield | [Algorithms on Strings, Trees, and Sequences - Computer Science and Computational Biology](https://www.semanticscholar.org/paper/21f389aabe2491d620ce920e3bad2b12521fa025) | 4521 |
-| 1999 | C. Cassandras | [Introduction to Discrete Event Systems](https://www.semanticscholar.org/paper/972b7116e75a62730d449feafb017411bbb2fa1f) | 4513 |
 | 1982 | D. Ballard | [Computer Vision](https://www.semanticscholar.org/paper/1e26162d70f04da2091d1aa011f6999b76cbddff) | 4497 |
-| 1983 | Shu Lin | [Error control coding : fundamentals and applications](https://www.semanticscholar.org/paper/003643595acb19117ddff6c8ed854ddd30c1aff5) | 4475 |
 | 1967 | A. Samuel | [Some Studies in Machine Learning Using the Game of Checkers](https://www.semanticscholar.org/paper/e9e6bb5f2a04ae30d8ecc9287f8b702eedd7b772) | 4452 |
 | 2009 | Yoshua Bengio | [Curriculum learning](https://www.semanticscholar.org/paper/8de174ab5419b9d3127695405efd079808e956e8) | 4446 |
 | 2011 | R. Szeliski | [Computer Vision - Algorithms and Applications](https://www.semanticscholar.org/paper/4282a344671189e17c9c9e00e329fe2d0fa71769) | 4430 |
@@ -487,7 +482,6 @@
 | 1972 | W. Richardson | [Bayesian-Based Iterative Method of Image Restoration](https://www.semanticscholar.org/paper/eb5f518e9fdd764835f719bfef59b1276cb562b3) | 3605 |
 | 2018 | Ningning Ma | [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://www.semanticscholar.org/paper/c02b909a514af6b9255315e2d50112845ca5ed0e) | 3598 |
 | 1978 | W. Dick | [The systematic design of instruction](https://www.semanticscholar.org/paper/bdee2e8dde217c6a420adf2c90358e1294f2559e) | 3589 |
-| 1972 | R. Bellman | [Introduction to Matrix Analysis](https://www.semanticscholar.org/paper/03aeda0c4a0e802a59d70d57fe814ca076b6094a) | 3588 |
 | 2004 | Jian Yang | [Two-dimensional PCA: a new approach to appearance-based face representation and recognition](https://www.semanticscholar.org/paper/6bd39d2d06a7b4bf0fe9784e02db45b4d40ccee1) | 3585 |
 | 2019 | Zhi Tian | [FCOS: Fully Convolutional One-Stage Object Detection](https://www.semanticscholar.org/paper/e2751a898867ce6687e08a5cc7bdb562e999b841) | 3579 |
 | 2015 | Samuel R. Bowman | [A large annotated corpus for learning natural language inference](https://www.semanticscholar.org/paper/f04df4e20a18358ea2f689b4c129781628ef7fc1) | 3578 |
@@ -620,7 +614,6 @@
 | 1984 | Kishor S. Trivedi | [Probability and Statistics with Reliability, Queuing, and Computer Science Applications](https://www.semanticscholar.org/paper/05913f4b504aa1fb1e638cdd0848d94bf5eb43da) | 2959 |
 | 1993 | R. Heaton | [Wisconsin Card Sorting Test Manual – Revised and Expanded](https://www.semanticscholar.org/paper/e1b21f3fcb495b2aee9c01bf57356f62c665b864) | 2956 |
 | 1971 | Thomas S. Huang | [Image processing](https://www.semanticscholar.org/paper/f443112a7600c96d4e901b554d5f5e328b761af7) | 2950 |
-| 1997 | J. Birge | [Introduction to Stochastic Programming](https://www.semanticscholar.org/paper/56000fad84cc2dc5a1fa673c5e5f5f12e64f4c16) | 2942 |
 | 2016 | Heng-Tze Cheng | [Wide & Deep Learning for Recommender Systems](https://www.semanticscholar.org/paper/657fbf29ea0b4904a3e98d1556f9acf38dddae5f) | 2941 |
 | 2017 | Terrance Devries | [Improved Regularization of Convolutional Neural Networks with Cutout](https://www.semanticscholar.org/paper/eb35fdc11a325f21a8ce0ca65058f7480a2fc91f) | 2938 |
 | 1984 | J. Novak | [Learning How to Learn](https://www.semanticscholar.org/paper/dabad3904c8d13689d6a145f32eab75802753a12) | 2930 |
@@ -644,7 +637,6 @@
 | 2010 | Shai Ben-David | [A theory of learning from different domains](https://www.semanticscholar.org/paper/66d398aeaeb7ec24ededb1adaa4b4f09a6c1bcde) | 2872 |
 | 2019 | Ke Sun | [Deep High-Resolution Representation Learning for Human Pose Estimation](https://www.semanticscholar.org/paper/6303bac53abd725c3b458190a6abe389a4a1e72d) | 2872 |
 | 2007 | Shuicheng Yan | [Graph Embedding and Extensions: A General Framework for Dimensionality Reduction](https://www.semanticscholar.org/paper/69381b5efd97e7c55f51c2730caccab3d632d4d2) | 2871 |
-| 1997 | D. Bertsimas | [Introduction to linear optimization](https://www.semanticscholar.org/paper/c8557a70ecdeec83f70954c5f169393c7f04fc9e) | 2870 |
 | 2015 | Jascha Narain Sohl-Dickstein | [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://www.semanticscholar.org/paper/2dcef55a07f8607a819c21fe84131ea269cc2e3c) | 2868 |
 | 1998 | I. Heim | [Semantics in generative grammar](https://www.semanticscholar.org/paper/0dc0d0cfebc2ea1f88c64a159a76d0cb8258bff9) | 2868 |
 | 2014 | Bolei Zhou | [Learning Deep Features for Scene Recognition using Places Database](https://www.semanticscholar.org/paper/9667f8264745b626c6173b1310e2ff0298b09cfc) | 2867 |
@@ -722,18 +714,14 @@
 | 2016 | Alexey Kurakin | [Adversarial Machine Learning at Scale](https://www.semanticscholar.org/paper/e2a85a6766b982ff7c8980e57ca6342d22493827) | 2626 |
 | 2021 | A. Ramesh | [Zero-Shot Text-to-Image Generation](https://www.semanticscholar.org/paper/2cd605106b88c85d7d8b865b1ef0f8c8293debf1) | 2625 |
 | 1995 | E. Anderson | [LAPACK Users' Guide](https://www.semanticscholar.org/paper/14dc304f9954930194a332fd759cfb255b12b6bb) | 2616 |
-| 2001 | D. Higham | [An Algorithmic Introduction to Numerical Simulation of Stochastic Differential Equations](https://www.semanticscholar.org/paper/1c4126f96df7690dd40dab5f34ee4be5a5f95fbb) | 2616 |
 | 2022 | Jason Wei | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5) | 2611 |
 | 1990 | M. Mesulam | [Large‐scale neurocognitive networks and distributed processing for attention, language, and memory](https://www.semanticscholar.org/paper/3f06754e842533ebedc1c37e3ce0cf56318cb8e1) | 2600 |
-| 1993 | M. Weiser | [Some computer science issues in ubiquitous computing](https://www.semanticscholar.org/paper/9c42e606b18c992b91908626abc46ed92f39848e) | 2599 |
-| 1992 | J. Raymond | [Temporary suppression of visual processing in an RSVP task: an attentional blink? .](https://www.semanticscholar.org/paper/8672294604e93c1eaf79c683a4423245eb0e000f) | 2599 |
-| 1966 | J. Weizenbaum | [ELIZA—a computer program for the study of natural language communication between man and machine](https://www.semanticscholar.org/paper/a798bca71c8833e49ad9bac22da4b5c3503f1e6a) | 2596 |
+| 1966 | J. Weizenbaum | [ELIZA—a computer program for the study of natural language communication between man and machine](https://www.semanticscholar.org/paper/a798bca71c8833e49ad9bac22da4b5c3503f1e6a) | 2596 
 | 2010 | H. Jégou | [Aggregating local descriptors into a compact image representation](https://www.semanticscholar.org/paper/a1855be6143291aeafb16338eb3327f903ac7618) | 2595 |
 | 2012 | Pedro M. Domingos | [A few useful things to know about machine learning](https://www.semanticscholar.org/paper/1696cbf7da0ee845c50591843993e6605adec177) | 2595 |
 | 1987 | J. R. Quinlan | [Simplifying decision trees](https://www.semanticscholar.org/paper/952c12ff973c2a800809bf357c73941c7c0aa387) | 2594 |
 | 1989 | D. E. Goldberg | [Genetic Algorithms in Search, Optimization & Machine Learning](https://www.semanticscholar.org/paper/ccf73e723d8308f28a98cb435dfb585581f59e2c) | 2585 |
 | 1973 | H. Simon | [The Structure of Ill Structured Problems](https://www.semanticscholar.org/paper/637e7de0cf09c289566c613ee2853a339251ef56) | 2585 |
-| 1984 | E. Grosswald | [The Theory of Partitions](https://www.semanticscholar.org/paper/655cfaa67ee27c616794826653472f7851b39d2d) | 2584 |
 | 2004 | Thomas Hofmann | [Unsupervised Learning by Probabilistic Latent Semantic Analysis](https://www.semanticscholar.org/paper/e6dd83b2aa34c806596fc619ff3fbccf5f9830ab) | 2581 |
 | 2007 | Tie Liu | [Learning to Detect A Salient Object](https://www.semanticscholar.org/paper/6a40d21075cf3d50c57a5fa58568a8db3b3422b3) | 2580 |
 | 2009 | J. Mairal | [Online Learning for Matrix Factorization and Sparse Coding](https://www.semanticscholar.org/paper/ccd1282aea3cc7c3d40300d82472fc5f9f54cb8e) | 2578 |
@@ -741,24 +729,18 @@
 | 1974 | T. Winograd | [Understanding natural language](https://www.semanticscholar.org/paper/bb20f121c979b535bbeade5ac06676d627d4ad7d) | 2568 |
 | 2010 | Alain Horé | [Image Quality Metrics: PSNR vs. SSIM](https://www.semanticscholar.org/paper/4a9a98cc86b1e07e548b7edee045275a793f6698) | 2563 |
 | 2004 | C. Andrieu | [An Introduction to MCMC for Machine Learning](https://www.semanticscholar.org/paper/7c8858eba8571d86abd90252e734a11e3a6dd73f) | 2562 |
-| 2009 | A. A. Ayuso | [Introduction to Stochastic Programming](https://www.semanticscholar.org/paper/a5973c820c503c6f0e9eea1fd8b24f1559416f0b) | 2560 |
 | 2017 | Antti Tarvainen | [Weight-averaged consistency targets improve semi-supervised deep learning results](https://www.semanticscholar.org/paper/1342c1e1684620c019972e2679d5131f1e8a4a13) | 2558 |
 | 1989 | M. Burrows | [A logic of authentication](https://www.semanticscholar.org/paper/c4767555e585afcbe982b228457c94a316ab84f1) | 2558 |
 | 2017 | Tom Young | [Recent Trends in Deep Learning Based Natural Language Processing](https://www.semanticscholar.org/paper/ce2d5b5856bb6c9ab5c2390eb8b180c75a162055) | 2557 |
-| 1999 | A. Fitzgibbon | [Direct Least Square Fitting of Ellipses](https://www.semanticscholar.org/paper/052da5003d11a1006c6ec8fe341c71dbef6f0d6a) | 2556 |
-| 1970 | D. Knuth | [The Art of Computer Programming, Volume II: Seminumerical Algorithms](https://www.semanticscholar.org/paper/2f05f96a53f94c9da24fbcca5c3df1d7e159c63d) | 2548 |
-| 1971 | B. Weinstein | [Data Transmission by Frequency-Division Multiplexing Using the Discrete Fourier Transform](https://www.semanticscholar.org/paper/57f0e3d8f0a5f237ba6cf948a60221164de0c557) | 2544 |
 | 1996 | J. Hagenauer | [Iterative decoding of binary block and convolutional codes](https://www.semanticscholar.org/paper/d7b350b6d469ac30c02f10aa4e62f77f79c0106b) | 2543 |
 | 2015 | Bing Xu | [Empirical Evaluation of Rectified Activations in Convolutional Network](https://www.semanticscholar.org/paper/adf3b591281688b7e71b254ab931b2aa39b4b59f) | 2542 |
 | 1978 | H. Tamura | [Textural Features Corresponding to Visual Perception](https://www.semanticscholar.org/paper/597edc3174dc9f26badd67c4e81d0e8a58f9dbb3) | 2542 |
 | 2016 | Sylvestre-Alvise Rebuffi | [iCaRL: Incremental Classifier and Representation Learning](https://www.semanticscholar.org/paper/1703631a938b397ba7e858161ce16448f6046d6f) | 2541 |
 | 2004 | C. Beckmann | [Probabilistic independent component analysis for functional magnetic resonance imaging](https://www.semanticscholar.org/paper/97dd13e512a6305c7eb9273714cd20c55c4a6474) | 2540 |
 | 1998 | P. J. Phillips | [The FERET database and evaluation procedure for face-recognition algorithms](https://www.semanticscholar.org/paper/dc8b25e35a3acb812beb499844734081722319b4) | 2537 |
-| 2002 | Gert R. G. Lanckriet | [Learning the Kernel Matrix with Semidefinite Programming](https://www.semanticscholar.org/paper/0948365ef39ef153e61e9569ade541cf881c7c2a) | 2534 |
 | 1994 | R. Battiti | [Using mutual information for selecting features in supervised neural net learning](https://www.semanticscholar.org/paper/10028f490a9dc0e4c024ab40e0bee9f3e027f875) | 2528 |
 | 1978 | J. Backus | [Can programming be liberated from the von Neumann style?: a functional style and its algebra of programs](https://www.semanticscholar.org/paper/d0baafc5937944b41981ffbcd8e7da1ec7c12299) | 2527 |
 | 2019 | Ninareh Mehrabi | [A Survey on Bias and Fairness in Machine Learning](https://www.semanticscholar.org/paper/0090023afc66cd2741568599057f4e82b566137c) | 2522 |
-| 2002 | S. Bustin | [Quantification of mRNA using real-time reverse transcription PCR (RT-PCR): trends and problems.](https://www.semanticscholar.org/paper/5584f6103597d50d6222cb342c3dd202b098385b) | 2521 |
 | 1976 | E. Shortliffe | [Computer-based medical consultations, MYCIN](https://www.semanticscholar.org/paper/c8e38cee27196aebba894bba680e74f23bf9c560) | 2518 |
 | 2001 | S. Brink | [Convergence behavior of iteratively decoded parallel concatenated codes](https://www.semanticscholar.org/paper/157235ae3b7703461956a5509b84b9ed60e662cf) | 2517 |
 | 2015 | Alexander M. Rush | [A Neural Attention Model for Abstractive Sentence Summarization](https://www.semanticscholar.org/paper/1ac30af5522c7a50ec4d1ee43fd2bd8652a9bd52) | 2516 |
@@ -768,17 +750,12 @@
 | 1983 | P. Holland | [Stochastic blockmodels: First steps](https://www.semanticscholar.org/paper/996263c3ddbb50f0198354827445abd214f83030) | 2504 |
 | 2003 | R. Fergus | [Object class recognition by unsupervised scale-invariant learning](https://www.semanticscholar.org/paper/62837ab473124ea43cb8d7c6a4b4ee0f6f14e8c5) | 2502 |
 | 2016 | S. Wei | [Convolutional Pose Machines](https://www.semanticscholar.org/paper/864e7db59f2ccfec1ee9f6eba79566ac7b0634df) | 2498 |
-| 1991 | G. Reinelt | [TSPLIB - A Traveling Salesman Problem Library](https://www.semanticscholar.org/paper/6dd4c69048d8dad7e42c4293cb8a43f474f02108) | 2496 |
-| 1989 | D. Nunan | [Designing Tasks For The Communicative Classroom](https://www.semanticscholar.org/paper/a9dd39e95ae1545f2b3ef4f58f7ebae541d92e78) | 2495 |
-| 1984 | E. Selkirk | [Phonology and Syntax: The Relation between Sound and Structure](https://www.semanticscholar.org/paper/42481caf7319149d121dc2d13c13f2d8c23d5d40) | 2493 |
 | 1993 | N. Pal | [A review on image segmentation techniques](https://www.semanticscholar.org/paper/d077f1a275c922e288cda1e3fa949154316503cf) | 2486 |
 | 2015 | Kihyuk Sohn | [Learning Structured Output Representation using Deep Conditional Generative Models](https://www.semanticscholar.org/paper/3f25e17eb717e5894e0404ea634451332f85d287) | 2484 |
 | 2000 | M. S. Brown | [Knowledge-based analysis of microarray gene expression data by using support vector machines.](https://www.semanticscholar.org/paper/a86171e13f84fe32212dd7fb6a1c31a34a47155f) | 2483 |
 | 1993 | Catherine Rouvas-Nicolis | [Stochastic resonance](https://www.semanticscholar.org/paper/25fbfe7e8196496d65dbb01aa4672179fd6d5c8f) | 2481 |
 | 2004 | Pedro F. Felzenszwalb | [Pictorial Structures for Object Recognition](https://www.semanticscholar.org/paper/34d21e6bf1586715e233248dee787afc66a1fbe7) | 2473 |
-| 1997 | Stephen J. Wright | [Primal-Dual Interior-Point Methods](https://www.semanticscholar.org/paper/73c82f0630015c181d7ae6a7ff1d186dc26e29af) | 2473 |
 | 1981 | J. L. Peterson | [Petri net theory and the modeling of systems](https://www.semanticscholar.org/paper/f44b5c119d233d1cbea60596f450b966abf12db8) | 2472 |
-| 1976 | M. Garey | [The Complexity of Flowshop and Jobshop Scheduling](https://www.semanticscholar.org/paper/be5f6a576cda7e56bf2beef996685d111e9ebd7b) | 2471 |
 | 2004 | Luis von Ahn | [Labeling images with a computer game](https://www.semanticscholar.org/paper/c2d4a6e4900ec0f096c87bb2b1272eeceaa584a6) | 2469 |
 | 1990 | R. Milner | [Definition of standard ML](https://www.semanticscholar.org/paper/37e634588f112478e145fa522a4afb2a40a2d250) | 2468 |
 | 2019 | Qiang Yang | [Federated Machine Learning](https://www.semanticscholar.org/paper/62ccd99a65bfc7c735ae1f33b75b107665de95df) | 2466 |
@@ -817,7 +794,6 @@
 | 2017 | Dmitry Ulyanov | [Deep Image Prior](https://www.semanticscholar.org/paper/faa98e73eeee551c40923c896817ab640925ce20) | 2384 |
 | 1970 | C. G. Broyden | [The Convergence of a Class of Double-rank Minimization Algorithms 1. General Considerations](https://www.semanticscholar.org/paper/6583e799ce560a21d5fc8bf726a9fa4accbf036b) | 2377 |
 | 2013 | Yoshua Bengio | [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://www.semanticscholar.org/paper/62c76ca0b2790c34e85ba1cce09d47be317c7235) | 2377 |
-| 2009 | A. Zelinsky | [Learning OpenCV---Computer Vision with the OpenCV Library (Bradski, G.R. et al.; 2008)[On the Shelf]](https://www.semanticscholar.org/paper/72c600b4f1e49eee8ebf1aa84ccb5f4b95387285) | 2374 |
 | 1985 | Satoshi Suzuki | [Topological structural analysis of digitized binary images by border following](https://www.semanticscholar.org/paper/cf021db5e811fd5b67ee3aa4db0a6a0351d276d2) | 2373 |
 | 2015 | Sainbayar Sukhbaatar | [End-To-End Memory Networks](https://www.semanticscholar.org/paper/4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e) | 2373 |
 | 2012 | M. Hoffman | [Stochastic variational inference](https://www.semanticscholar.org/paper/bccb2f99a9d1c105699f5d88c479569085e2c7ba) | 2370 |
