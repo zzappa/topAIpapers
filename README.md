@@ -1,6 +1,6 @@
-This is a list of top AI/ML/DL papers for the past ~90 years (1935-2023) sorted by number of citations. I got the idea from Chris Albon, and though I though he's right and there would be just a thousand or so papers, turned out it's almost 5000 of them. The list is incomplete and have many papers that are not directly AI/ML/DL, though I tried to clean the list a bit.
+This is a list of top AI/ML/DL papers for the past ~90 years (1935-2023) sorted by number of citations. I got the idea from [Neal Parikh and Chris Albon](https://twitter.com/chrisalbon/status/1728898702788763913?t=nlVgSUOUYxIBpCvRBVD-Hg&s). Though I thought they're right and there would be just a thousand or so papers, it turned out there're almost 5000 of them. The list is obviously incomplete and includes many papers that are not directly related to AI/ML/DL, but I tried to clean it a bit.
 
-Anyway, here are the top papers with more than 30k citations:
+Anyway, the following are the top papers, each with over 30,000 citations:
 
 | Year | Author | Title | Citations |
 |------|--------|-------|-----------|
@@ -31,4 +31,4 @@ Anyway, here are the top papers with more than 30k citations:
 
 For the whole list, [see all papers](/papers.md).
 
-I got the list parsing SemanticScholar as they have the best API (Google Scholar should also be fine, but it's harder to parse.) You can generate your own raw list via the [notebook](/top_papers.ipynb).
+I got this list parsing SemanticScholar as they have the best API (Google Scholar should also be fine, but it's harder to parse). You can generate your own raw list via the [notebook](/top_papers.ipynb).
