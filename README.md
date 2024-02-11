@@ -1,4 +1,4 @@
-This is a list of top AI/ML/DL papers for the past ~90 years (1935-2023) sorted by number of citations. I got the idea from [Neal Parikh and Chris Albon](https://twitter.com/chrisalbon/status/1728898702788763913?t=nlVgSUOUYxIBpCvRBVD-Hg&s). Though I thought they're right and there would be just a thousand or so papers, it turned out there're almost 5000 of them. The list is obviously incomplete and includes many papers that are not directly related to AI/ML/DL, but I tried to clean it a bit.
+This is a list of top AI/ML/DL papers for the past ~90 years (1935-2023) sorted by number of citations. I got the idea from [Neal Parikh and Chris Albon](https://twitter.com/chrisalbon/status/1728898702788763913?t=nlVgSUOUYxIBpCvRBVD-Hg&s). Though I thought they're right and there would be just a thousand or so papers, it turned out there're ~4000 of them. The list is obviously incomplete and includes many papers that are not directly related to AI/ML/DL, but I tried to clean it a bit.
 
 Anyway, the following are the top papers, each with over 30,000 citations:
 
