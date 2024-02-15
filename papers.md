@@ -1,5 +1,6 @@
 | Year | Author | Title | Citations |
 |------|--------|-------|-----------|
+| 1948 | C. Shannon | [A mathematical theory of communication](https://www.semanticscholar.org/paper/a54194422c56399b2923b2ad706b8175c8c48258) | 152500 |
 | 2015 | Kaiming He | [Deep Residual Learning for Image Recognition](https://www.semanticscholar.org/paper/2c03df8b48bf3fa39054345bafabfeff15bfd11d) | 151703 |
 | 2014 | Diederik P. Kingma | [Adam: A Method for Stochastic Optimization](https://www.semanticscholar.org/paper/a6cb366736791bcccc5c8639de5a8f9636bf87e8) | 129788 |
 | 2012 | A. Krizhevsky | [ImageNet classification with deep convolutional neural networks](https://www.semanticscholar.org/paper/abd1c342495432171beb7ca8fd9551ef13cbd0ff) | 105420 |
@@ -23,7 +24,6 @@
 | 2014 | Olga Russakovsky | [ImageNet Large Scale Visual Recognition Challenge](https://www.semanticscholar.org/paper/e74f9b7f8eec6ba4704c206b93bc8079af3da4bd) | 33827 |
 | 2014 | Evan Shelhamer | [Fully convolutional networks for semantic segmentation](https://www.semanticscholar.org/paper/6fc6803df5f9ae505cae5b2f178ade4062c768d0) | 32869 |
 | 2005 | Navneet Dalal | [Histograms of oriented gradients for human detection](https://www.semanticscholar.org/paper/e8b12467bdc20bde976750b8a28decdb33246d1d) | 32695 |
-| 1948 | C. Shannon | [A mathematical theory of communication](https://www.semanticscholar.org/paper/a54194422c56399b2923b2ad706b8175c8c48258) | 31121 |
 | 2019 | Adam Paszke | [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://www.semanticscholar.org/paper/3c8a456509e6c0805354bd40a35e3f2dbf8069b1) | 29622 |
 | 2016 | Gao Huang | [Densely Connected Convolutional Networks](https://www.semanticscholar.org/paper/5694e46284460a648fe29117cbc55f6c9be3fa3c) | 29364 |
 | 2014 | Jeffrey Pennington | [GloVe: Global Vectors for Word Representation](https://www.semanticscholar.org/paper/f37e1b62a767a307c046404ca96bc140b3e68cb5) | 28742 |
